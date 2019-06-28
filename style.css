@@ -31,3 +31,9 @@ figcaption{
   margin: 0 auto;
   width: 800px;
 }
+
+#details div{
+  float: left;
+  display: block;
+  
+}
